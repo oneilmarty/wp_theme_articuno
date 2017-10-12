@@ -1,8 +1,10 @@
-		<footer class="site-footer">
+			<footer class="site-footer">
 
-			<p><?php bloginfo('name'); ?> - &copy; <?php echo date('Y'); ?></p>
+				<p><?php bloginfo('name'); ?> - &copy; <?php echo date('Y'); ?></p>
 
-		</footer>
+			</footer>
+
+		</div><!-- /container -->
 
 		<?php wp_footer(); ?>
 	</body>
